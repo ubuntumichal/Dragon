@@ -1,5 +1,9 @@
 #DragonToken
 
+Dragon IBC Token on Coreum Mainnet
+
+https://dax.pulsara.io/tokens/dragon42-core128hgt0nnt69a5wqtl3auryf37vg90c3k9rq7q6
+
 $Dragon
 
 77 Dragons Sent to Pulsara Treasury
